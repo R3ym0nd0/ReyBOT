@@ -63,6 +63,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
 - May automatically disconnect or left the game if hit by a creeper explosion (even without dying)
 - Tree chopping and ore mining aren't fully smooth — Reybot sometimes pauses, but will retry after ~5 seconds
 - During PvP with you, if auto-eating triggers, it may switch from sword to food and punch with it instead
+- Not working on latest update. Only works on 1.20.4 as I tested
 
 ---
 
