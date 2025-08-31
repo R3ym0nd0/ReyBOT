@@ -5,7 +5,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="1280" height="720" alt="ReyBOT" src="https://github.com/user-attachments/assets/87d4312a-b61b-4933-8e90-e8111a8fdb2b" />
 
@@ -34,7 +34,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
 
 ---
 
-## 📌 What ReyBOT Does
+## What ReyBOT Does
 
 - Follows you by default
 - Guards and protects you by detecting and fighting hostile mobs nearby
@@ -47,7 +47,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
   
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Node.js
 - Mineflayer
@@ -58,7 +58,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
   
 ---
 
-## 🚧 Limitations
+## Limitations
 
 - May automatically disconnect or left the game if hit by a creeper explosion (even without dying)
 - Tree chopping and ore mining aren't fully smooth — Reybot sometimes pauses, but will retry after ~5 seconds
@@ -67,7 +67,7 @@ Whether you're exploring caves or wandering through the forest, ReyBOT has your 
 
 ---
 
-## 🙌 Why I'm Building This
+## Why I'm Building This
 
 Playing alone in singleplayer can sometimes feel empty or lonely. I built ReyBOT to change that—to give players a helpful bot/s who follows, protects, and interacts with them. It's not just about automation, it's about making your world feel alive and less lonely.
 
